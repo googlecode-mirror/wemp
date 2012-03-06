@@ -1,0 +1,3 @@
+http://your_url_or_ip/adminer
+
+http://your_url_or_ip/sqlbuddy
