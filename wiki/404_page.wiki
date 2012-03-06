@@ -10,6 +10,3 @@ delete code
         location = /404.html {
         }
 }}}
-{{{
-            try_files      $uri =404;
-}}}
