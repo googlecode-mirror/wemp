@@ -1,3 +1,5 @@
-http://your_url_or_ip/adminer
+http://your_url_or_ip/adminer/
 
-http://your_url_or_ip/sqlbuddy
+http://your_url_or_ip/adminer/editor.php
+
+http://your_url_or_ip/sqlbuddy/
